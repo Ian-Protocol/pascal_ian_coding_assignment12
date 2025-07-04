@@ -5,7 +5,7 @@ Please follow the instructions below to build and run this Dockerfile and Vite/R
 Run: `git clone https://github.com/Ian-Protocol/pascal_ian_coding_assignment12.git`
 
 ## Step 2: Build the Docker image.
-Navigate into the repo folder: `cd pascal_ian_coding_assignment12`
+Navigate into the repo folder: `cd pascal_ian_coding_assignment12`  
 Then run: `docker build -t pascal_ian_coding_assignment12 .`
 
 ## Step 3: Run the container.
